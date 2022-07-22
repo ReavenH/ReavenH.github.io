@@ -2,18 +2,32 @@
 layout: default    
 ---
 
-**NOTICE**: this webpage is continuously under construction, sorry for the inconvenience!      
-I am currently studying Telecommunication Engineering in Tiangong University, Tianjin, China.       
-[Zhongming Huang's Gmail (Main account)](reavenhuang@gmail.com)   
+**NOTICE**: 
+1. this webpage is continuously under construction, sorry for the inconvenience!     
+2. I am currently studying Telecommunication Engineering in Tiangong University, Tianjin, China. And I am now seeking `PhD positions related to EE/CS`, since I'm particularly interested in the intersection between Computer Vision and Robotics.
+3. If you are interested, please feel free to contact me: [Zhongming Huang's Gmail (Main account)](reavenhuang@gmail.com)   
 
-# Education      
+# Education
+
+## Undergraduate Education
+
 **School of Electronics and Information Engineering, Tiangong University, Tianjin, China**      
 
-Undergraduate of Telecommunication Engineering, Class of 2023, Sep. 2019 — Present       
+Undergraduate of `Telecommunication Engineering`, Class of 2023, Sep. 2019 — Present       
 
-`GPA:3.80/4.0` ,  `Rank` Top **1.6%** in major
+`GPA:3.80/4.0` ,  `Rank 3/120 in major`
 
 `Specialized Courses` Machine Learning and Bigdata Processing (90) / Digital Signal Processing (89) / Computer Networks (95) / Mathematical Modeling / Signals and Systems / Microcontroller / EDA Theory & VHDL Programming (96) / Communication Theory / High-Frequency Electronics / Electromagnetics / A&D Electronics (91) / C Programming (92) / Linear Algebra (90), etc.    
+
+## High School Education
+
+**Changjun High School, Changsha, China**
+
+Duration: 2016-2019.
+
+Some may argue that why I show my high school experience in such a formal blog. Actually, my high school is among the top 4 high schools in China. I have benefited a lot from the education Changjun had given me. I never forget the school's motto, which is "to love live, to master thinking, to benefit the world, and to make accomplishments"(in Chinese: 爱生活，善求知，忧天下，有作为). This motto has always been the beacon in my journey to persue knowledge and overcome barriers. 
+
+I actually experienced the so-called "Waterloo" founder in Gaokao, but I still kept fighting. But during my university life, I appreciate much about my classmates and teachers. Because I have met a lot of friends who are very nice, and more importantly, I have found what I really love, which is building intelligent mobile robots that can freely travel on the world (e.g. autonomous driving cars, and autonomous robots as the Boston Dynamics has introduced). I understand what I love will take a lot to finally achieve, so I will continue to push my boundaries till the day comes.
 
 -----
 
@@ -29,9 +43,9 @@ Undergraduate of Telecommunication Engineering, Class of 2023, Sep. 2019 — Pre
 
 - **Zhongming Huang,** Shangyun Yang, 6-DoF Occluded Object Semantic Grasp Planning with De-occlusion Instance Segmentation, In Proc. of the *5th International Conference on Intelligent Autonomous Systems (ICoIAS’ 2022)* (Accepted)
 
-- **Zhongming Huang*,** Yuxiang Wang1, High Precision Small Hepatocellular Carcinoma Detection Using Improved EfficientNet with Self-Attention, In Proc. of *22nd IEEE/ACIS International Conference on Computer and Information Science* *(ICIS 2022)* (In Press)
+- **Zhongming Huang**\*, Yuxiang Wang*, High Precision Small Hepatocellular Carcinoma Detection Using Improved EfficientNet with Self-Attention, In Proc. of *22nd IEEE/ACIS International Conference on Computer and Information Science* *(ICIS 2022)* (In Press)
 
-- **Zhongming Huang* **, Yuxiang Wang1, Haolan Hu, Xun Liu, Tongzhen Liu and Zhanxu Zhang, Dynamic Feature Extraction Using I-Vector for Video Fire Detection, In Proc. of *2022 3rd International Conference on Pattern Recognition and Machine Learning (PRML 2022)* (In Press)
+- **Zhongming Huang** \*, Yuxiang Wang*, Haolan Hu, Xun Liu, Tongzhen Liu and Zhanxu Zhang, Dynamic Feature Extraction Using I-Vector for Video Fire Detection, In Proc. of *2022 3rd International Conference on Pattern Recognition and Machine Learning (PRML 2022)* (In Press)
 
 - Yukuan Sun, **Zhongming Huang**, Yuxiang Wang, Xun Liu, Zhanxu Zhang, Tongzhen Liu, Haolan Hu, A Multi-dimensional Sensing Quadrotor UAV Fire Inspection System (P.R.C. Patent for Utility Models, Application Number: CN202221074321.2)
 
@@ -41,25 +55,25 @@ Undergraduate of Telecommunication Engineering, Class of 2023, Sep. 2019 — Pre
 
 > \* : the authors contributed equally in the paper work.
 
+------
+
 # Active Researches
 
 ## **Towards Future Improvements on Semantic Visual Navigation Methods** 
 
 Jun. 2022 — Present, MA, United States (Remote)
 
-**Research Intern | Supervisor: Mark Vogelsberger, Professor,** *Massachusetts Institute of Technology* 
+**Research Intern** | **Supervisor: Mark Vogelsberger, Professor,** *Massachusetts Institute of Technology* 
 
 - Discussed deeper theories of several foundamental neural network structures as the basic knowledge. Also, different tricks used in enhancing the network’s performance have been tested by hand buiding different kind of networks from scratch. 
 
 - Aimed at the visual navigation field, including re-implementing motion planning, visual recognition methods and analyzing their potentials to be further improved.
 
- 
-
 ## High Precision Object Detection Based on Polygon Bounding Boxes             
 
 Sep.2021 — Present, CA, United States (Remote)
 
-**Research Intern | Supervisor: Ian Deng, PhD,** *University of California, San Diego*
+**Research Intern** | **Supervisor: Ian Deng, PhD,** *University of California, San Diego*
 
 - Aimied to design an adapted object detection algorithm which generates object locations with a more precise boundry, providing more accurate localization which is less affected by the background.
 
@@ -73,7 +87,9 @@ Sep.2021 — Present, CA, United States (Remote)
 
 ***Title: 6-DoF Occluded Object Semantic Grasp Planning with De-occlusion Instance Segmentation***        
 
-**First Author, Oral Presenter | Collaborator: Shangyun Yang,** *School of Electronic and Information Engineering,* *Tiangong University* 
+**First Author, Oral Presenter** 
+
+Collaborator: Shangyun Yang, *School of Electronic and Information Engineering,* *Tiangong University* 
 
 Jan. 2022 — Jun. 2022
 
@@ -85,7 +101,9 @@ Jan. 2022 — Jun. 2022
 
 ***Title: High Precision Small Hepatocellular Carcinoma Detection Using Improved EfficientNet with Self-Attention*** 
 
-**Co-researcher, Oral Presenter | Collaborator: Yuxiang Wang,** *School of Electronic and Information Engineering,* *Tiangong University*               
+**Co-researcher, Oral Presenter** 
+
+Collaborator: Yuxiang Wang, *School of Electronic and Information Engineering,* *Tiangong University*               
 
 Mar. 2022 — Jun. 2022
 
@@ -97,11 +115,15 @@ Mar. 2022 — Jun. 2022
 
 ## **Tianjin Provincial Project of The College Student Innovation and Entrepreneurship Plan**
 
-**Project Number: 202110058107 | Certificate Number: 20210537**
+**Project Number: 202110058107**
+
+**Certificate Number: 20210537**
 
 ***Title: Fire Detection System Based on Deep Learning Quadrotor UAV***                 
 
-**Team Leader | Supervisor: Yukuan Sun,** *School of Computer Science and Software Engineering, Tiangong University*     
+**Team Leader**       
+
+Supervisor: Yukuan Sun,** *School of Computer Science and Software Engineering, Tiangong University*     
 
 Tianjin, China 
 
@@ -113,13 +135,13 @@ Mar. 2021 — May 2022
 
 - Will be giving an **oral presentation** on the ***2022 3rd International Conference on Pattern Recognition and Machine Learning*** *(PRML 2022)* to be held on July 22, 2022.
 
- 
-
 ## **The 16th "Challenge Cup" Competition**                                  
 
 ***Title: Automatic Inspection Robot for Underwater Pipelines***                            
 
-**Team Leader | Supervisor: Di Zhao, Director** of the *Robot Lab of Tiangong University*             
+**Team Leader**
+
+**Supervisor: Di Zhao, Director** of the *Robot Lab of Tiangong University*             
 
 Tianjin, China
 
@@ -129,19 +151,21 @@ Mar. 2021 — May 2021
 
 - Designed an underwater robot that can automatically follow the pipelines and gives feedback when the machine vision module (OpenMV) detects defects.
 
- 
-
 ## **The 7th National College Students' Engineering Training Comprehensive Ability Competition**            
 
 ***Title: Smart Logistic Quadrotor UAV***                                
 
-**Team Member | Supervisor: Di Zhao, Director** of the *Robot Lab of Tiangong University*             
+**Team Member**
+
+**Supervisor: Di Zhao, Director** of the *Robot Lab of Tiangong University*             
 
 Tianjin, China 
 
 Dec. 2020 — Apr. 2021
 
 - Aimed to program a quadrotor UAV to fly indoors and automatically move a geometrically shaped object from one point to another based on ground marks. The whole work involves automatic flight control, path planning, grasp control and automatic obstacle avoidance, the UAV was able to achieve full procedure after one-click take-off.
+
+-----
 
 # Honors and Prizes
 
@@ -169,3 +193,10 @@ National English Competition for College Students (NECCS)
 
 First-class Scholarship of Tiangong University (Top 3% in Academics)
 
+-----
+
+# Hobbies
+
+- Photographing(just for fun)
+- Singing(above the average, I guess)
+- Enjoying smart devices(especially those with own thoughts)
