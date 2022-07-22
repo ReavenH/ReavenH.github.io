@@ -42,13 +42,15 @@ I actually experienced the so-called "Waterloo" founder in Gaokao, but I still k
 
 - **Other Computer Skills：**Skilled in using MATLAB to calculate or draw diagrams, using Markdown to edit documents or generate diagrams, drawing illustrations using Visio, and editing TEX scripts using Overleaf.
 
+-----
+
 # Publications and Patents
 
 - **Zhongming Huang,** Shangyun Yang, 6-DoF Occluded Object Semantic Grasp Planning with De-occlusion Instance Segmentation, In Proc. of the *5th International Conference on Intelligent Autonomous Systems (ICoIAS’ 2022)* (Accepted) [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper1.pdf)
 
-- **Zhongming Huang**\*, Yuxiang Wang*, High Precision Small Hepatocellular Carcinoma Detection Using Improved EfficientNet with Self-Attention, In Proc. of *22nd IEEE/ACIS International Conference on Computer and Information Science* *(ICIS 2022)* (In Press) [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper2.pdf)
+- **Zhongming Huang**\*, Yuxiang Wang\*, High Precision Small Hepatocellular Carcinoma Detection Using Improved EfficientNet with Self-Attention, In Proc. of *22nd IEEE/ACIS International Conference on Computer and Information Science* *(ICIS 2022)* (In Press) [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper2.pdf)
 
-- **Zhongming Huang** \*, Yuxiang Wang*, Haolan Hu, Xun Liu, Tongzhen Liu and Zhanxu Zhang, Dynamic Feature Extraction Using I-Vector for Video Fire Detection, In Proc. of *2022 3rd International Conference on Pattern Recognition and Machine Learning (PRML 2022)* (In Press) [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper3.pdf)
+- **Zhongming Huang**\*, Yuxiang Wang\*, Haolan Hu, Xun Liu, Tongzhen Liu and Zhanxu Zhang, Dynamic Feature Extraction Using I-Vector for Video Fire Detection, In Proc. of *2022 3rd International Conference on Pattern Recognition and Machine Learning (PRML 2022)* (In Press) [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper3.pdf)
 
 - Yukuan Sun, **Zhongming Huang**, Yuxiang Wang, Xun Liu, Zhanxu Zhang, Tongzhen Liu, Haolan Hu, A Multi-dimensional Sensing Quadrotor UAV Fire Inspection System (P.R.C. Patent for Utility Models, Application Number: CN202221074321.2)
 
