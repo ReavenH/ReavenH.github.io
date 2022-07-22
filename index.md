@@ -86,6 +86,8 @@ Sep.2021 — Present, CA, United States (Remote)
 
 - Designed to use YOLOv3 as the backbone, with the technique route being referred to the previous work Poly-YOLO, and the work was expected to be presented in a paper under preparation.
 
+-----
+
 # Research and Competition Experiences
 
 ## **5th International Conference on Intelligent Autonomous Systems (ICoIAS’ 2022, Date: Sep. 23-25, 2022)**         **Dalian, China**
