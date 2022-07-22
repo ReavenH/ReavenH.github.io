@@ -2,7 +2,7 @@
 layout: default    
 ---
 
-**NOTICE**: this webpage is still under construction, sorry for the inconvenience!      
+**NOTICE**: this webpage is continuously under construction, sorry for the inconvenience!      
 I am currently studying Telecommunication Engineering in Tiangong University, Tianjin, China.       
 [Zhongming Huang's Gmail (Main account)](reavenhuang@gmail.com)   
 
@@ -11,11 +11,161 @@ I am currently studying Telecommunication Engineering in Tiangong University, Ti
 
 Undergraduate of Telecommunication Engineering, Class of 2023, Sep. 2019 — Present       
 
-`GPA:3.80/4.0` | `Rank` Top **1.6%** in major
+`GPA:3.80/4.0` ,  `Rank` Top **1.6%** in major
 
 `Specialized Courses` Machine Learning and Bigdata Processing (90) / Digital Signal Processing (89) / Computer Networks (95) / Mathematical Modeling / Signals and Systems / Microcontroller / EDA Theory & VHDL Programming (96) / Communication Theory / High-Frequency Electronics / Electromagnetics / A&D Electronics (91) / C Programming (92) / Linear Algebra (90), etc.    
 
 -----
 
+# Technical Skills
 
+- **Language**：TOEFL 102, GRE 330 (AW 4)
+
+- **Programming**：Skilled in programming using C, Python, VHDL and Markdown; excelled in solving problems utilizing MATLAB, PyCharm, Jupyter Notebook, Visual Studio, Anaconda, Quartus, Keil; familiarized with Linux developing environment.
+
+- **Other Computer Skills：**Skilled in using MATLAB to calculate or draw diagrams, using Markdown to edit documents or generate diagrams, drawing illustrations using Visio, and editing TEX scripts using Overleaf.
+
+# Publications and Patents
+
+- **Zhongming Huang,** Shangyun Yang, 6-DoF Occluded Object Semantic Grasp Planning with De-occlusion Instance Segmentation, In Proc. of the *5th International Conference on Intelligent Autonomous Systems (ICoIAS’ 2022)* (Accepted)
+
+- **Zhongming Huang*,** Yuxiang Wang1, High Precision Small Hepatocellular Carcinoma Detection Using Improved EfficientNet with Self-Attention, In Proc. of *22nd IEEE/ACIS International Conference on Computer and Information Science* *(ICIS 2022)* (In Press)
+
+- **Zhongming Huang* **, Yuxiang Wang1, Haolan Hu, Xun Liu, Tongzhen Liu and Zhanxu Zhang, Dynamic Feature Extraction Using I-Vector for Video Fire Detection, In Proc. of *2022 3rd International Conference on Pattern Recognition and Machine Learning (PRML 2022)* (In Press)
+
+- Yukuan Sun, **Zhongming Huang**, Yuxiang Wang, Xun Liu, Zhanxu Zhang, Tongzhen Liu, Haolan Hu, A Multi-dimensional Sensing Quadrotor UAV Fire Inspection System (P.R.C. Patent for Utility Models, Application Number: CN202221074321.2)
+
+- **Zhongming Huang**, Yuxiang Wang, Xun Liu, Zhanxu Zhang, Tongzhen Liu, Haolan Hu, Fire Detection System Based on Deep Learning Quadrotor UAV (P.R.C. Software Copyright, Submitted)
+
+- **Zhongming Huang**, Yuxiang Wang, Haolan Hu, A Dynamic Fire Detection Model Using I-Vector (P.R.C. Patent for Invention, Submitted)
+
+> \* : the authors contributed equally in the paper work.
+
+# Active Researches
+
+## **Towards Future Improvements on Semantic Visual Navigation Methods** 
+
+Jun. 2022 — Present, MA, United States (Remote)
+
+**Research Intern | Supervisor: Mark Vogelsberger, Professor,** *Massachusetts Institute of Technology* 
+
+- Discussed deeper theories of several foundamental neural network structures as the basic knowledge. Also, different tricks used in enhancing the network’s performance have been tested by hand buiding different kind of networks from scratch. 
+
+- Aimed at the visual navigation field, including re-implementing motion planning, visual recognition methods and analyzing their potentials to be further improved.
+
+ 
+
+## High Precision Object Detection Based on Polygon Bounding Boxes             
+
+Sep.2021 — Present, CA, United States (Remote)
+
+**Research Intern | Supervisor: Ian Deng, PhD,** *University of California, San Diego*
+
+- Aimied to design an adapted object detection algorithm which generates object locations with a more precise boundry, providing more accurate localization which is less affected by the background.
+
+- Planned to generate polygon localizations which wraps the object more precisely than traditional rectangular bounding boxes, shifting the coordination regression task on the rectangle corners to the vertices of a polygon bounding box. 
+
+- Designed to use YOLOv3 as the backbone, with the technique route being referred to the previous work Poly-YOLO, and the work was expected to be presented in a paper under preparation.
+
+# Research and Competition Experiences
+
+## **5th International Conference on Intelligent Autonomous Systems (ICoIAS’ 2022, Date: Sep. 23-25, 2022)**         **Dalian, China**
+
+***Title: 6-DoF Occluded Object Semantic Grasp Planning with De-occlusion Instance Segmentation***        
+
+**First Author, Oral Presenter | Collaborator: Shangyun Yang,** *School of Electronic and Information Engineering,* *Tiangong University* 
+
+Jan. 2022 — Jun. 2022
+
+- Aimed to design an algorithm to pick a partially covered object in a cluttered scene, where the algorithm should calculate the best-next-grasp.
+
+- Designed a set of scoring algorithms for optimal grasping for a partially covered object using a single fixed camera based on the layout of scene, this scoring algorithm weights factors including the occlusion area and grasp pose confidence in a non-linear approach and decides the best object to grasp next.
+
+## **22nd** **IEEE/ACIS International Conference on Computer and Information Science (ICIS 2022, Date: Jun. 26-28, 2022)  Zhuhai, China**
+
+***Title: High Precision Small Hepatocellular Carcinoma Detection Using Improved EfficientNet with Self-Attention*** 
+
+**Co-researcher, Oral Presenter | Collaborator: Yuxiang Wang,** *School of Electronic and Information Engineering,* *Tiangong University*               
+
+Mar. 2022 — Jun. 2022
+
+- Developed a model that can better autonomically detect subtle small liver cancer (*small hepatocellular carcinoma*) characteristics in CT scans and has the reliable accuracy for diagnosis, which applied to the detection of early liver cancer that is difficult to be distinguished by naked eyes.
+
+- Combined the self-attention mechanism, often used in the field of natural language processing, with the convolutional neural network Efficient-net to improve the self-learning ability of the model, endowing the front end of the whole detection algorithm with an extraordinary ability to compare features between healthy livers and those with small liver cancer in CT scan images.
+
+- Achieved a test detection accuracy of > 97% after training on the LiTS dataset; contributed as the co-first author.
+
+## **Tianjin Provincial Project of The College Student Innovation and Entrepreneurship Plan**
+
+**Project Number: 202110058107 | Certificate Number: 20210537**
+
+***Title: Fire Detection System Based on Deep Learning Quadrotor UAV***                 
+
+**Team Leader | Supervisor: Yukuan Sun,** *School of Computer Science and Software Engineering, Tiangong University*     
+
+Tianjin, China 
+
+Mar. 2021 — May 2022                 
+
+- Targeted at researching novel visual detection algorithms and relative deployment on mobile processing platforms. Trained and tested different traditional fire-detection CNN models and deployed them on a Jetson Nano Developer Kit, constructed an experimental quadrotor UAV prototype.
+
+- Since traditional CNN detection models require massive dataset and huge computational capacity, a novel and efficient algorithm based on adapted I-Vector was proposed, which focuses on dynamic features of fire combustion instead of any static shape of fire. Achieved 91% detection accuracy after training on a dataset of only 1296 sequences (< 9 MB).
+
+- Will be giving an **oral presentation** on the ***2022 3rd International Conference on Pattern Recognition and Machine Learning*** *(PRML 2022)* to be held on July 22, 2022.
+
+ 
+
+## **The 16th "Challenge Cup" Competition**                                  
+
+***Title: Automatic Inspection Robot for Underwater Pipelines***                            
+
+**Team Leader | Supervisor: Di Zhao, Director** of the *Robot Lab of Tiangong University*             
+
+Tianjin, China
+
+Mar. 2021 — May 2021
+
+- Committed to realizing the unmanned detection and maintenance the surface of underwater sewage or optical communication pipelines.
+
+- Designed an underwater robot that can automatically follow the pipelines and gives feedback when the machine vision module (OpenMV) detects defects.
+
+ 
+
+## **The 7th National College Students' Engineering Training Comprehensive Ability Competition**            
+
+***Title: Smart Logistic Quadrotor UAV***                                
+
+**Team Member | Supervisor: Di Zhao, Director** of the *Robot Lab of Tiangong University*             
+
+Tianjin, China 
+
+Dec. 2020 — Apr. 2021
+
+- Aimed to program a quadrotor UAV to fly indoors and automatically move a geometrically shaped object from one point to another based on ground marks. The whole work involves automatic flight control, path planning, grasp control and automatic obstacle avoidance, the UAV was able to achieve full procedure after one-click take-off.
+
+# Honors and Prizes
+
+·  **Provincial Second Prize** (Team Leader), Jun. 2021
+
+The 16th “Challenge Cup” College Students Extracurricular Academic Science and Technology Works Competition, Tianjin Area
+
+·  **Provincial Second Prize**, May 2021
+
+The 7th National College Students Engineering Training Comprehensive Ability Competition, Tianjin Area Competition
+
+·  **Honorable Mention** (Team Leader), Mar. 2021
+
+2021 U.S. College Student Interdisciplinary Contest in Modeling (ICM)
+
+·  **National Grand Prize**, Dec. 2020
+
+National English Competition for College Students (NECCS)
+
+·  **National Third Prize**,  Dec. 2020
+
+12nd National Mathematics Competition for College Students
+
+·  **President First-class Scholarship**, Sep. 2020 & Sep. 2021
+
+First-class Scholarship of Tiangong University (Top 3% in Academics)
 
