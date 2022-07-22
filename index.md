@@ -4,8 +4,9 @@ layout: default
 
 **NOTICE**: 
 1. this webpage is continuously under construction, sorry for the inconvenience!     
-2. I am currently studying Telecommunication Engineering in Tiangong University, Tianjin, China. And I am now seeking `PhD positions related to EE/CS`, since I'm particularly interested in the intersection between Computer Vision and Robotics.
-3. If you are interested, please feel free to contact me: [Zhongming Huang's Gmail (Main account)](reavenhuang@gmail.com)   
+2. I am currently studying Telecommunication Engineering in Tiangong University, Tianjin, China. And I am now `seeking PhD positions related to EE/CS`, since I'm particularly interested in the intersection between Computer Vision and Robotics.
+3. If you are interested, please feel free to contact me: [Zhongming Huang's Gmail (Main account)](reavenhuang@gmail.com).
+4. My CV can be found [here](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_CV_ver9.pdf).   
 
 # Education
 
@@ -29,23 +30,25 @@ Some may argue that why I show my high school experience in such a formal blog. 
 
 I actually experienced the so-called "Waterloo" founder in Gaokao, but I still kept fighting. But during my university life, I appreciate much about my classmates and teachers. Because I have met a lot of friends who are very nice, and more importantly, I have found what I really love, which is building intelligent mobile robots that can freely travel on the world (e.g. autonomous driving cars, and autonomous robots as the Boston Dynamics has introduced). I understand what I love will take a lot to finally achieve, so I will continue to push my boundaries till the day comes.
 
+(Sounds a little bit sentimental, but I am actually a firm person in reality, lol.)
+
 -----
 
 # Technical Skills
 
-- **Language**：TOEFL 102, GRE 330 (AW 4)
+- **Language**：`TOEFL 102, GRE 330 (AW 4)`
 
-- **Programming**：Skilled in programming using C, Python, VHDL and Markdown; excelled in solving problems utilizing MATLAB, PyCharm, Jupyter Notebook, Visual Studio, Anaconda, Quartus, Keil; familiarized with Linux developing environment.
+- **Programming**：Skilled in programming using C, Python, VHDL and Markdown; excelled in solving problems utilizing MATLAB, PyCharm, Jupyter Notebook, Visual Studio, Anaconda, Quartus, Keil; familiarized with Linux developing environment. 
 
 - **Other Computer Skills：**Skilled in using MATLAB to calculate or draw diagrams, using Markdown to edit documents or generate diagrams, drawing illustrations using Visio, and editing TEX scripts using Overleaf.
 
 # Publications and Patents
 
-- **Zhongming Huang,** Shangyun Yang, 6-DoF Occluded Object Semantic Grasp Planning with De-occlusion Instance Segmentation, In Proc. of the *5th International Conference on Intelligent Autonomous Systems (ICoIAS’ 2022)* (Accepted)
+- **Zhongming Huang,** Shangyun Yang, 6-DoF Occluded Object Semantic Grasp Planning with De-occlusion Instance Segmentation, In Proc. of the *5th International Conference on Intelligent Autonomous Systems (ICoIAS’ 2022)* (Accepted) [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper1.pdf)
 
-- **Zhongming Huang**\*, Yuxiang Wang*, High Precision Small Hepatocellular Carcinoma Detection Using Improved EfficientNet with Self-Attention, In Proc. of *22nd IEEE/ACIS International Conference on Computer and Information Science* *(ICIS 2022)* (In Press)
+- **Zhongming Huang**\*, Yuxiang Wang*, High Precision Small Hepatocellular Carcinoma Detection Using Improved EfficientNet with Self-Attention, In Proc. of *22nd IEEE/ACIS International Conference on Computer and Information Science* *(ICIS 2022)* (In Press) [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper2.pdf)
 
-- **Zhongming Huang** \*, Yuxiang Wang*, Haolan Hu, Xun Liu, Tongzhen Liu and Zhanxu Zhang, Dynamic Feature Extraction Using I-Vector for Video Fire Detection, In Proc. of *2022 3rd International Conference on Pattern Recognition and Machine Learning (PRML 2022)* (In Press)
+- **Zhongming Huang** \*, Yuxiang Wang*, Haolan Hu, Xun Liu, Tongzhen Liu and Zhanxu Zhang, Dynamic Feature Extraction Using I-Vector for Video Fire Detection, In Proc. of *2022 3rd International Conference on Pattern Recognition and Machine Learning (PRML 2022)* (In Press) [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper3.pdf)
 
 - Yukuan Sun, **Zhongming Huang**, Yuxiang Wang, Xun Liu, Zhanxu Zhang, Tongzhen Liu, Haolan Hu, A Multi-dimensional Sensing Quadrotor UAV Fire Inspection System (P.R.C. Patent for Utility Models, Application Number: CN202221074321.2)
 
