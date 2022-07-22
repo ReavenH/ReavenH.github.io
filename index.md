@@ -26,11 +26,11 @@ Undergraduate of `Telecommunication Engineering`, Class of 2023, Sep. 2019 — P
 
 Duration: 2016-2019.
 
-Some may argue that why I show my high school experience in such a formal blog. Actually, my high school is among the top 4 high schools in China. I have benefited a lot from the education Changjun had given me. I never forget the school's motto, which is "to love live, to master thinking, to benefit the world, and to make accomplishments"(in Chinese: 爱生活，善求知，忧天下，有作为). This motto has always been the beacon in my journey to persue knowledge and overcome barriers. 
+Some may argue that why I show my high school experience in such a formal blog. Actually, my high school is among the top 4 high schools in China. I have benefited a lot from the education Changjun had given me. I never forget the school's motto, which is "to love life, to master thinking, to benefit the world, and to make accomplishments"(in Chinese: 爱生活，善求知，忧天下，有作为). This motto has always been the beacon in my journey to persue knowledge and overcome barriers. 
 
-I actually experienced the so-called "Waterloo" founder in Gaokao, but I still kept fighting. But during my university life, I appreciate much about my classmates and teachers. Because I have met a lot of friends who are very nice, and more importantly, I have found what I really love, which is building intelligent mobile robots that can freely travel on the world (e.g. autonomous driving cars, and autonomous robots as the Boston Dynamics has introduced). I understand what I love will take a lot to finally achieve, so I will continue to push my boundaries till the day comes.
+I actually experienced the so-called "Waterloo" debacle in Gaokao, but I still kept fighting. Though I was highlighted by many prizes during my high school life, I did not get a concret answer about what to endeavor in the lifelong journey. During my university life, I appreciate much about my classmates and teachers. Because I have met a lot of friends who are very nice, and more importantly, I have found what I really love, which is building intelligent mobile robots that can freely travel on the world (e.g. autonomous driving cars, and autonomous robots as the Boston Dynamics has introduced). I understand what I love will take a lot to finally achieve, so I will continue to push my boundaries till the day comes.
 
-(Sounds a little bit sentimental, but I am actually a firm person in reality, lol.)
+(Sounds a little bit sentimental, but I am actually a firm person in reality, lol. I will back to academic style in the next sections~)
 
 -----
 
