@@ -63,7 +63,7 @@ I actually experienced the so-called "Waterloo" debacle in Gaokao, but I still k
 
 - **Programming**：Skilled in programming using C, Python, VHDL and Markdown; excelled in solving problems utilizing MATLAB, PyCharm, Jupyter Notebook, Visual Studio, Anaconda, Quartus, Keil; familiarized with Linux developing environment. 
 
-- **Other Computer Skills：**Skilled in using MATLAB to calculate or draw diagrams, using Markdown to edit documents or generate diagrams, drawing illustrations using Visio, and editing TEX scripts using Overleaf.
+- **Other Computer Skills**：Skilled in using MATLAB to calculate or draw diagrams, using Markdown to edit documents or generate diagrams, drawing illustrations using Visio, and editing TEX scripts using Overleaf.
 
 -----
 
@@ -237,4 +237,5 @@ First-class Scholarship of Tiangong University (Top 3% in Academics)
   - In 2020, I participated in organizing a Music Liveshow Called [YoungTime 2020](./youngtime2.html) as the vice-director, this liveshow is co-orgnized by my high school mates, who all love music and spread the spirit of music. The funding was raised by our own and we had been gone through many troublesome procedures when contacting sponsors, singers, and cooperating with the venue leasing agents. But the liveshow turned out to be rather impressive. 
   - During 2019~2020, I was a member of Tiangong University Chamber Chorus where I sang in the tenore division.
 - Enjoying smart devices(especially those with own thoughts)
+  - I became an IEEE Member in 2022!
 - Appreciating tasty cuisines, I am actually a connoisseur of tasting, but a layman when I have to cook, lol.
