@@ -9,6 +9,8 @@ layout: default
 4. My CV can be found [here](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_CV_ver9.pdf).   
 5. Details about my projects can be found on the next sections (with links).
 
+-----
+
 **CONTENTS**
 - [Education](#education)
   - [Undergraduate Education](#undergraduate-education)
@@ -26,6 +28,8 @@ layout: default
   - [**The 7th National College Students' Engineering Training Comprehensive Ability Competition**](#the-7th-national-college-students-engineering-training-comprehensive-ability-competition)
 - [Honors and Prizes](#honors-and-prizes)
 - [Hobbies and Other Experiences](#hobbies-and-other-experiences)
+
+-----
 
 # Education
 
