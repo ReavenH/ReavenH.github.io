@@ -17,7 +17,7 @@ layout: default
 - [Publications and Patents](#publications-and-patents)
 - [Active Researches](#active-researches)
   - [**Towards Future Improvements on Semantic Visual Navigation Methods**](#towards-future-improvements-on-semantic-visual-navigation-methods)
-  - [High Precision Object Detection Based on Polygon Bounding Boxes](#high-precision-object-detection-based-on-polygon-bounding-boxes)
+  - [**High Precision Object Detection Based on Polygon Bounding Boxes**](#high-precision-object-detection-based-on-polygon-bounding-boxes)
 - [Research and Competition Experiences](#research-and-competition-experiences)
   - [**5th International Conference on Intelligent Autonomous Systems (ICoIAS’ 2022, Date: Sep. 23-25, 2022)**         **Dalian, China**](#5th-international-conference-on-intelligent-autonomous-systems-icoias-2022-date-sep-23-25-2022---------dalian-china)
   - [**22nd** **IEEE/ACIS International Conference on Computer and Information Science (ICIS 2022, Date: Jun. 26-28, 2022)  Zhuhai, China**](#22nd-ieeeacis-international-conference-on-computer-and-information-science-icis-2022-date-jun-26-28-2022--zhuhai-china)
@@ -95,7 +95,7 @@ Jun. 2022 — Present, MA, United States (Remote)
 
 - Aimed at the visual navigation field, including re-implementing motion planning, visual recognition methods and analyzing their potentials to be further improved.
 
-## High Precision Object Detection Based on Polygon Bounding Boxes             
+## **High Precision Object Detection Based on Polygon Bounding Boxes**             
 
 Sep.2021 — Present, CA, United States (Remote)
 
