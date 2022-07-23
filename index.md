@@ -157,7 +157,7 @@ Mar. 2022 — Jun. 2022
 
 **Team Leader**       
 
-Supervisor: Yukuan Sun,** *School of Computer Science and Software Engineering, Tiangong University*     
+Supervisor: Yukuan Sun, *School of Computer Science and Software Engineering, Tiangong University*     
 
 Tianjin, China 
 
