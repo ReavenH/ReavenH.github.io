@@ -5,7 +5,7 @@ layout: default
 **NOTICE**: 
 1. this webpage is continuously under construction, sorry for the inconvenience!     
 2. I am currently studying Telecommunication Engineering in Tiangong University, Tianjin, China. And I am now `seeking PhD positions related to EE/CS`, since I'm particularly interested in the intersection between Computer Vision and Robotics.
-3. If you are interested, please feel free to contact me: [Zhongming Huang's Gmail (Main account)](reavenhuang@gmail.com).
+3. If you are interested, please feel free to contact me: <reavenhuang@gmail.com>.
 4. My CV can be found [here](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_CV_ver9.pdf).   
 5. Details about my projects can be found on the next sections (with links).
 
@@ -35,7 +35,7 @@ layout: default
 
 ## Undergraduate Education
 
-**School of Electronics and Information Engineering, Tiangong University, Tianjin, China**      
+**School of Electronics and Information Engineering, [Tiangong University](https://www.tiangong.edu.cn/), Tianjin, China**      
 
 Undergraduate of `Telecommunication Engineering`, Class of 2023, Sep. 2019 — Present       
 
@@ -45,7 +45,7 @@ Undergraduate of `Telecommunication Engineering`, Class of 2023, Sep. 2019 — P
 
 ## High School Education
 
-**Changjun High School, Changsha, China**
+**[Changjun High School](http://www.changjun.com.cn/), Changsha, China**
 
 Duration: 2016-2019.
 
@@ -167,7 +167,9 @@ Mar. 2021 — May 2022
 
 - Since traditional CNN detection models require massive dataset and huge computational capacity, a novel and efficient algorithm based on adapted I-Vector was proposed, which focuses on dynamic features of fire combustion instead of any static shape of fire. Achieved 91% detection accuracy after training on a dataset of only 1296 sequences (< 9 MB).
 
-- Will be giving an **oral presentation** on the ***2022 3rd International Conference on Pattern Recognition and Machine Learning*** *(PRML 2022)* to be held on July 22, 2022.
+- Gave an **oral presentation** on the ***2022 3rd International Conference on Pattern Recognition and Machine Learning*** *(PRML 2022)* to be held on July 22, 2022.
+
+[Project Details](./UAVProvincialProject.html)
 
 ## **The 16th "Challenge Cup" Competition**                                  
 
@@ -198,6 +200,8 @@ Tianjin, China
 Dec. 2020 — Apr. 2021
 
 - Aimed to program a quadrotor UAV to fly indoors and automatically move a geometrically shaped object from one point to another based on ground marks. The whole work involves automatic flight control, path planning, grasp control and automatic obstacle avoidance, the UAV was able to achieve full procedure after one-click take-off.
+
+[Competition Details](./UAVCompetition.html)
 
 -----
 
@@ -238,4 +242,5 @@ First-class Scholarship of Tiangong University (Top 3% in Academics)
   - During 2019~2020, I was a member of Tiangong University Chamber Chorus where I sang in the tenore division.
 - Enjoying smart devices(especially those with own thoughts)
   - I became an IEEE Member in 2022!
+  - I also love mobile vehicles (including autonomous cars, UAVs, robots). [Misc of My UAV Experience](./MyUAVExperience.html)
 - Appreciating tasty cuisines, I am actually a connoisseur of tasting, but a layman when I have to cook, lol.
