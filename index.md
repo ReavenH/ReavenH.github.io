@@ -7,6 +7,10 @@ layout: default
 2. I am currently studying Telecommunication Engineering in Tiangong University, Tianjin, China. And I am now `seeking PhD positions related to EE/CS`, since I'm particularly interested in the intersection between Computer Vision and Robotics.
 3. If you are interested, please feel free to contact me: [Zhongming Huang's Gmail (Main account)](reavenhuang@gmail.com).
 4. My CV can be found [here](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_CV_ver9.pdf).   
+5. Details about my projects can be found on the next sections (with links).
+
+**CONTENTS**
+[TOC]
 
 # Education
 
@@ -68,7 +72,9 @@ I actually experienced the so-called "Waterloo" debacle in Gaokao, but I still k
 
 Jun. 2022 — Present, MA, United States (Remote)
 
-**Research Intern** | **Supervisor: Mark Vogelsberger, Professor,** *Massachusetts Institute of Technology* 
+**Research Intern** 
+
+**Supervisor: Mark Vogelsberger, Professor,** *Massachusetts Institute of Technology* 
 
 - Discussed deeper theories of several foundamental neural network structures as the basic knowledge. Also, different tricks used in enhancing the network’s performance have been tested by hand buiding different kind of networks from scratch. 
 
@@ -78,7 +84,9 @@ Jun. 2022 — Present, MA, United States (Remote)
 
 Sep.2021 — Present, CA, United States (Remote)
 
-**Research Intern** | **Supervisor: Ian Deng, PhD,** *University of California, San Diego*
+**Research Intern** 
+
+**Supervisor: Ian Deng, PhD,** *University of California, San Diego*
 
 - Aimied to design an adapted object detection algorithm which generates object locations with a more precise boundry, providing more accurate localization which is less affected by the background.
 
@@ -176,7 +184,7 @@ Dec. 2020 — Apr. 2021
 
 # Honors and Prizes
 
-·  **Provincial Second Prize** (Team Leader), Jun. 2021
+·  **Provincial Second Prize** `Team Leader`, Jun. 2021
 
 The 16th “Challenge Cup” College Students Extracurricular Academic Science and Technology Works Competition, Tianjin Area
 
@@ -184,7 +192,7 @@ The 16th “Challenge Cup” College Students Extracurricular Academic Science a
 
 The 7th National College Students Engineering Training Comprehensive Ability Competition, Tianjin Area Competition
 
-·  **Honorable Mention** (Team Leader), Mar. 2021
+·  **Honorable Mention** `Team Leader`, Mar. 2021
 
 2021 U.S. College Student Interdisciplinary Contest in Modeling (ICM)
 
@@ -202,8 +210,12 @@ First-class Scholarship of Tiangong University (Top 3% in Academics)
 
 -----
 
-# Hobbies
+# Hobbies and Other Experiences
 
-- Photographing(just for fun)
+- Travel and Photographing(just for fun)
+  I like to explore places and leave remarkable footprints. [Click](./photographing.html) to see details.
 - Singing(above the average, I guess)
+  - In 2020, I participated in organizing a Music Liveshow Called [YoungTime 2020](./youngtime2.html) as the vice-director, this liveshow is co-orgnized by my high school mates, who all love music and spread the spirit of music. The funding was raised by our own and we had been gone through many troublesome procedures when contacting sponsors, singers, and cooperating with the venue leasing agents. But the liveshow turned out to be rather impressive. 
+  - During 2019~2020, I was a member of Tiangong University Chamber Chorus where I sang in the tenore division.
 - Enjoying smart devices(especially those with own thoughts)
+- Appreciating tasty cuisines, I am actually a connoisseur of tasting, but a layman when I have to cook, lol.
