@@ -10,7 +10,22 @@ layout: default
 5. Details about my projects can be found on the next sections (with links).
 
 **CONTENTS**
-[TOC]
+- [Education](#education)
+  - [Undergraduate Education](#undergraduate-education)
+  - [High School Education](#high-school-education)
+- [Technical Skills](#technical-skills)
+- [Publications and Patents](#publications-and-patents)
+- [Active Researches](#active-researches)
+  - [**Towards Future Improvements on Semantic Visual Navigation Methods**](#towards-future-improvements-on-semantic-visual-navigation-methods)
+  - [High Precision Object Detection Based on Polygon Bounding Boxes](#high-precision-object-detection-based-on-polygon-bounding-boxes)
+- [Research and Competition Experiences](#research-and-competition-experiences)
+  - [**5th International Conference on Intelligent Autonomous Systems (ICoIAS’ 2022, Date: Sep. 23-25, 2022)**         **Dalian, China**](#5th-international-conference-on-intelligent-autonomous-systems-icoias-2022-date-sep-23-25-2022---------dalian-china)
+  - [**22nd** **IEEE/ACIS International Conference on Computer and Information Science (ICIS 2022, Date: Jun. 26-28, 2022)  Zhuhai, China**](#22nd-ieeeacis-international-conference-on-computer-and-information-science-icis-2022-date-jun-26-28-2022--zhuhai-china)
+  - [**Tianjin Provincial Project of The College Student Innovation and Entrepreneurship Plan**](#tianjin-provincial-project-of-the-college-student-innovation-and-entrepreneurship-plan)
+  - [**The 16th "Challenge Cup" Competition**](#the-16th-challenge-cup-competition)
+  - [**The 7th National College Students' Engineering Training Comprehensive Ability Competition**](#the-7th-national-college-students-engineering-training-comprehensive-ability-competition)
+- [Honors and Prizes](#honors-and-prizes)
+- [Hobbies and Other Experiences](#hobbies-and-other-experiences)
 
 # Education
 
