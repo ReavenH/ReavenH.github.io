@@ -73,9 +73,7 @@ I actually experienced the so-called "Waterloo" debacle in Gaokao, but I still k
 
 - **Zhongming Huang**\*, Yuxiang Wang\*, High Precision Small Hepatocellular Carcinoma Detection Using Improved EfficientNet with Self-Attention, In Proc. of *22nd IEEE/ACIS International Conference on Computer and Information Science* *(ICIS 2022)* (In Press) [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper2.pdf)
 
-- **Zhongming Huang**\*, Yuxiang Wang\*, Haolan Hu, Xun Liu, Tongzhen Liu and Zhanxu Zhang, Dynamic Feature Extraction Using I-Vector for Video Fire Detection, In Proc. of *2022 3rd International Conference on Pattern Recognition and Machine Learning (PRML 2022)* (In Press) [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper3.pdf)
-  
-  `Best Presentation Award of PRML 2022`
+- **Zhongming Huang**\*, Yuxiang Wang\*, Haolan Hu, Xun Liu, Tongzhen Liu and Zhanxu Zhang, Dynamic Feature Extraction Using I-Vector for Video Fire Detection, In Proc. of *2022 3rd International Conference on Pattern Recognition and Machine Learning (PRML 2022)* (In Press) [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper3.pdf) `Best Presentation Award of PRML 2022` [Click to See Shots on PRML 2022](./RH_PRML2022.html)
 
 - Yukuan Sun, **Zhongming Huang**, Yuxiang Wang, Xun Liu, Zhanxu Zhang, Tongzhen Liu, Haolan Hu, A Multi-dimensional Sensing Quadrotor UAV Fire Inspection System (P.R.C. Patent for Utility Models, Application Number: CN202221074321.2)
 
@@ -208,7 +206,7 @@ Dec. 2020 — Apr. 2021
 -----
 
 # Honors and Prizes
-·  **Best Presentation Award**, `Oral Presenter`, Jul. 2022
+·  **Best Presentation Award** `Oral Presenter`, Jul. 2022
 
 The 3<sup>rd</sup> International Conference on Pattern Recognition and Machine Learning (PRML 2022)
 
