@@ -239,11 +239,14 @@ First-class Scholarship of Tiangong University (Top 3% in Academics)
 # Hobbies and Other Experiences
 
 - Travel and Photographing(just for fun)
-  I like to explore places and leave remarkable footprints. [Click](./photographing.html) to see details.
+  - I like to explore places and leave remarkable footprints. [Click](./photographing.html) to see details.
+- Sports (badminton, hiking, fitness)
+  - Doing loved sports makes me feel refreshed! I keep fitness at home or dorm on a daily basis.
 - Singing(above the average, I guess)
   - In 2020, I participated in organizing a Music Liveshow called [YoungTime 2020](./youngtime2.html) as the vice-director, this liveshow is co-orgnized by my high school mates, who all love music and spread the spirit of music. The funding was raised by our own and we had been gone through many troublesome procedures when contacting sponsors, singers, and cooperating with the venue leasing agents. But the liveshow turned out to be rather impressive. 
   - During 2019~2020, I was a member of Tiangong University Chamber Chorus where I sang in the tenore division.
 - Enjoying smart devices(especially those with own thoughts)
   - I have become an IEEE Member in 2022!
-  - I also love mobile vehicles (including autonomous cars, UAVs, robots). [Misc of My UAV Experience](./MyUAVExperience.html)
+  - I also love mobile vehicles (including autonomous cars, UAVs, robots). [Misc of My UAV Experience](./MyUAVExperience.html).
 - Appreciating tasty cuisines, I am actually a connoisseur of tasting, but a layman when I have to cook, lol.
+- Cars. I am an "old" observer of the car market, and I like both motors and cars.
