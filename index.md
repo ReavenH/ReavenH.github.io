@@ -169,7 +169,7 @@ Mar. 2021 — May 2022
 
 - Gave an **oral presentation** on the ***2022 3rd International Conference on Pattern Recognition and Machine Learning*** *(PRML 2022)* to be held on July 22, 2022.
 
-[Project Details](./UAVProvincialProject.html)
+ [[Details of the Above Project](./UAVProvincialProject.html)]
 
 ## **The 16th "Challenge Cup" Competition**                                  
 
@@ -201,7 +201,7 @@ Dec. 2020 — Apr. 2021
 
 - Aimed to program a quadrotor UAV to fly indoors and automatically move a geometrically shaped object from one point to another based on ground marks. The whole work involves automatic flight control, path planning, grasp control and automatic obstacle avoidance, the UAV was able to achieve full procedure after one-click take-off.
 
-[Competition Details](./UAVCompetition.html)
+[[Details about the Above Competition](./UAVCompetition.html)]
 
 -----
 
