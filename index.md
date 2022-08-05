@@ -18,7 +18,7 @@ layout: default
 - [Technical Skills](#technical-skills)
 - [Publications and Patents](#publications-and-patents)
 - [Active Researches](#active-researches)
-  - [**Towards Future Improvements on Semantic Visual Navigation Methods**](#towards-future-improvements-on-semantic-visual-navigation-methods)
+  - [**Semantic Road Segmentation Based on Adapted Poly-YOLO**](#semantic-road-segmentation-based-on-adapted-poly-yolo)
   - [**High Precision Object Detection Based on Polygon Bounding Boxes**](#high-precision-object-detection-based-on-polygon-bounding-boxes)
 - [Research and Competition Experiences](#research-and-competition-experiences)
   - [**5th International Conference on Intelligent Autonomous Systems (ICoIAS’ 2022, Date: Sep. 23-25, 2022)**         **Dalian, China**](#5th-international-conference-on-intelligent-autonomous-systems-icoias-2022-date-sep-23-25-2022---------dalian-china)
@@ -53,17 +53,17 @@ Some may argue that why I show my high school experience in such a formal blog. 
 
 I actually experienced the so-called "Waterloo" debacle in Gaokao, but I still kept fighting. Though I was highlighted by many prizes during my high school life, I did not get a concret answer about what to endeavor in the lifelong journey. During my university life, I appreciate much about my classmates and teachers. Because I have met a lot of friends who are very nice, and more importantly, I have found what I really love, which is building intelligent mobile robots that can freely travel on the world (e.g. autonomous driving cars, and autonomous robots as the Boston Dynamics has introduced). I understand what I love will take a lot to finally achieve, so I will continue to push my boundaries till the day comes.
 
-(Sounds a little bit sentimental, but I am actually a firm person in reality, lol. I will back to academic style in the next sections~)
+(Sounds a little bit sentimental, but I am actually a firm person in reality, lol. I will back to academic style in the next sections~ **I am trying to conclude it in my Statement of Purpose that why I have become determined to learn CV/Robotics and my research experience**)
 
 -----
 
 # Technical Skills
 
-- **Language**：`TOEFL 102, GRE 330 (AW 4)`
+- **Language**：`TOEFL 105, GRE 330 (AW 4)` [[TOEFL Score Report](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_TOEFL.pdf), [GRE Score Report](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_GRE.pdf)]
 
-- **Programming**：Skilled in programming using C, Python, VHDL and Markdown; excelled in solving problems utilizing MATLAB, PyCharm, Jupyter Notebook, Visual Studio, Anaconda, Quartus, Keil; familiarized with Linux developing environment. 
+- **Programming**：Skilled in programming using C, Python, VHDL and Markdown; excelled in solving problems utilizing Visual Studio, MATLAB, Anaconda, Quartus, Keil; familiarized with Linux developing environment, Tensorflow and Keras. 
 
-- **Other Computer Skills**：Skilled in using MATLAB to calculate or draw diagrams, using Markdown to edit documents or generate diagrams, drawing illustrations using Visio, and editing TEX scripts using Overleaf.
+- **Other Computer Skills**：Skilled in building neural networks using Tensorflow and Keras, using MATLAB to calculate or draw diagrams, using Markdown to edit documents or generate diagrams, drawing illustrations using Visio, and editing TEX scripts using Overleaf.
 
 -----
 
@@ -87,7 +87,7 @@ I actually experienced the so-called "Waterloo" debacle in Gaokao, but I still k
 
 # Active Researches
 
-## **Towards Future Improvements on Semantic Visual Navigation Methods** 
+## **Semantic Road Segmentation Based on Adapted Poly-YOLO** 
 
 Jun. 2022 — Present, MA, United States (Remote)
 
@@ -95,9 +95,11 @@ Jun. 2022 — Present, MA, United States (Remote)
 
 **Supervisor: Mark Vogelsberger, Professor,** *Massachusetts Institute of Technology* 
 
-- Discussed deeper theories of several foundamental neural network structures as the basic knowledge. Also, different tricks used in enhancing the network’s performance have been tested by hand buiding different kind of networks from scratch. 
+- Discussed deeper theories of several foundamental neural network structures, especially those used in autonomous driving. Also, different tricks used in enhancing the network’s performance have been tested by hand buiding different kind of networks from scratch. 
 
-- Aimed at the visual navigation field, including re-implementing motion planning, visual recognition methods and analyzing their potentials to be further improved.
+
+- Aimed at the semantic road segmentation using object detection based methods, and make improvements upon the baseline models since the baseline model is not tuned for this specific scenario: 1) the anchors are not tuned for detecting drivable planes and cars appearing on the both sides; 2) the preprocessing mechanism for datasets to transform the masks into vertices is not accurate; 3) the pre-training dataset is limited.
+
 
 ## **High Precision Object Detection Based on Polygon Bounding Boxes**             
 
@@ -245,7 +247,7 @@ First-class Scholarship of Tiangong University (Top 3% in Academics)
 - Singing(above the average, I guess)
   - In 2020, I participated in organizing a Music Liveshow called [YoungTime 2020](./youngtime2.html) as the vice-director, this liveshow is co-orgnized by my high school mates, who all love music and spread the spirit of music. The funding was raised by our own and we had been gone through many troublesome procedures when contacting sponsors, singers, and cooperating with the venue leasing agents. But the liveshow turned out to be rather impressive. 
   - During 2019~2020, I was a member of Tiangong University Chamber Chorus where I sang in the tenore division.
-- Enjoying smart devices(especially those with own thoughts)
+- Enjoying smart devices(especially those with high intelligence)
   - I have become an IEEE Member in 2022!
   - I also love mobile vehicles (including autonomous cars, UAVs, robots). [Misc of My UAV Experience](./MyUAVExperience.html).
 - Appreciating tasty cuisines, I am actually a connoisseur of tasting, but a layman when I have to cook, lol.
