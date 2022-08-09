@@ -71,13 +71,13 @@ I actually experienced the so-called "Waterloo" debacle in Gaokao, but I still k
 
 - **Zhongming Huang,** Shangyun Yang, 6-DoF Occluded Object Semantic Grasp Planning with De-occlusion Instance Segmentation, In Proc. of the *5th International Conference on Intelligent Autonomous Systems (ICoIAS’ 2022)* (Accepted) [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper1.pdf)
 
-- **Zhongming Huang**\*, Yuxiang Wang\*, High Precision Small Hepatocellular Carcinoma Detection Using Improved EfficientNet with Self-Attention, In Proc. of *22nd IEEE/ACIS International Conference on Computer and Information Science* *(ICIS 2022)* (In Press) [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper2.pdf)
+- **Zhongming Huang**\*, Yuxiang Wang\*, High Precision Small Hepatocellular Carcinoma Detection Using Improved EfficientNet with Self-Attention, Paper Presented at *22nd IEEE/ACIS International Conference on Computer and Information Science* *(ICIS 2022)* (In Press) [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper2.pdf)
 
-- **Zhongming Huang**\*, Yuxiang Wang\*, Haolan Hu, Xun Liu, Tongzhen Liu and Zhanxu Zhang, Dynamic Feature Extraction Using I-Vector for Video Fire Detection, In Proc. of *2022 3rd International Conference on Pattern Recognition and Machine Learning (PRML 2022)* (In Press) [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper3.pdf) `Best Presentation Award of PRML 2022` [Click to See Shots on PRML 2022](./RH_PRML2022.html)
+- **Zhongming Huang**\*, Yuxiang Wang\*, Haolan Hu, Xun Liu, Tongzhen Liu and Zhanxu Zhang, Dynamic Feature Extraction Using I-Vector for Video Fire Detection, Paper Presented at *2022 3rd International Conference on Pattern Recognition and Machine Learning (PRML 2022)* (In Press) [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper3.pdf) `Best Presentation Award of PRML 2022` [Click to See Shots on PRML 2022](./RH_PRML2022.html)
 
 - Yukuan Sun, **Zhongming Huang**, Yuxiang Wang, Xun Liu, Zhanxu Zhang, Tongzhen Liu, Haolan Hu, A Multi-dimensional Sensing Quadrotor UAV Fire Inspection System (P.R.C. Patent for Utility Models, Application Number: CN202221074321.2)
 
-- **Zhongming Huang**, Yuxiang Wang, Xun Liu, Zhanxu Zhang, Tongzhen Liu, Haolan Hu, Fire Detection System Based on Deep Learning Quadrotor UAV (P.R.C. Software Copyright, Submitted)
+- **Zhongming Huang**, Yuxiang Wang, Xun Liu, Zhanxu Zhang, Tongzhen Liu, Haolan Hu, Fire Detection System Based on Deep Learning Quadrotor UAV (P.R.C. Software Copyright, Register Number: 2022SR0916949)
 
 - **Zhongming Huang**, Yuxiang Wang, Haolan Hu, A Dynamic Fire Detection Model Using I-Vector (P.R.C. Patent for Invention, Submitted)
 
