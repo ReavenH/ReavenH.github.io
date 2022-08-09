@@ -210,31 +210,31 @@ Dec. 2020 — Apr. 2021
 # Honors and Prizes
 ·  **Best Presentation Award** `Oral Presenter`, Jul. 2022
 
-The 3<sup>rd</sup> International Conference on Pattern Recognition and Machine Learning (PRML 2022)
+> The 3<sup>rd</sup> International Conference on Pattern Recognition and Machine Learning (PRML 2022)
 
 ·  **Provincial Second Prize** `Team Leader`, Jun. 2021
 
-The 16th “Challenge Cup” College Students Extracurricular Academic Science and Technology Works Competition, Tianjin Area
+> The 16th “Challenge Cup” College Students Extracurricular Academic Science and Technology Works Competition, Tianjin Area
 
 ·  **Provincial Second Prize**, May 2021
 
-The 7th National College Students Engineering Training Comprehensive Ability Competition, Tianjin Area Competition
+> The 7th National College Students Engineering Training Comprehensive Ability Competition, Tianjin Area Competition
 
 ·  **Honorable Mention** `Team Leader`, Mar. 2021
 
-2021 U.S. College Student Interdisciplinary Contest in Modeling (ICM)
+> 2021 U.S. College Student Interdisciplinary Contest in Modeling (ICM)
 
 ·  **National Grand Prize**, Dec. 2020
 
-National English Competition for College Students (NECCS)
+> National English Competition for College Students (NECCS)
 
 ·  **National Third Prize**,  Dec. 2020
 
-12nd National Mathematics Competition for College Students
+> 12nd National Mathematics Competition for College Students
 
 ·  **President First-class Scholarship**, Sep. 2020 & Sep. 2021
 
-First-class Scholarship of Tiangong University (Top 3% in Academics)
+> First-class Scholarship of Tiangong University (Top 3% in Academics)
 
 -----
 
