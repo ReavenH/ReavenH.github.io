@@ -256,4 +256,4 @@ Dec. 2020 — Apr. 2021
   - I have become an IEEE Member in 2022!
   - I also love mobile vehicles (including autonomous cars, UAVs, robots). [Misc of My UAV Experience](./MyUAVExperience.html).
 - Appreciating tasty cuisines, I am actually a connoisseur of tasting, but a layman when I have to cook, lol.
-- Cars. I am an "old" observer of the car market, and I like both motors and cars.
+- Cars. I am an "old" observer of the car market, and I like appreciating the design of both motors and cars.
