@@ -100,7 +100,10 @@ Jun. 2022 — Present, MA, United States (Remote)
 - Discussed deeper theories of several foundamental neural network structures, especially those used in autonomous driving. Also, different tricks used in enhancing the network’s performance have been tested by hand buiding different kind of networks from scratch. 
 
 
-- Aimed at the semantic road segmentation using object detection based methods, and make improvements upon the baseline models since the baseline model is not tuned for this specific scenario: 1) the anchors are not tuned for detecting drivable planes and cars appearing on the both sides; 2) the preprocessing mechanism for datasets to transform the masks into vertices is not accurate; 3) the pre-training dataset is limited.
+- Aimed at the semantic road segmentation using object detection based methods, and make improvements upon the baseline models since the baseline model is not tuned for this specific scenario: 1) the anchors are not tuned for detecting large road targets; 2) the preprocessing mechanism for datasets to transform the masks into vertices is not accurate; 3) the pre-training dataset is limited.
+
+- Improved the baseline model by allocating the anchors after splitting objects into three categories by the size, and also by training on larger datasets. The mAP at 0.5~0.95 IoU rised from 0.4 to over 0.8, the performance on detecting and segmenting small size objects is also enhanced, making the adapted model more reliable in real world road segmentation scenario. The result of this work is being presented in a paper.
+
 
 
 ## **High Precision Object Detection Based on Polygon Bounding Boxes**             
