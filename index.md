@@ -69,7 +69,7 @@ I actually experienced the so-called "Waterloo" debacle in Gaokao, but I still k
 
 # Publications and Patents
 
-- **Zhongming Huang**, Semantic Road Segmentation Based on Adapted Poly-YOLO (Preparing)
+- **Zhongming Huang**, Semantic Road Segmentation Based on Adapted Poly-YOLO (Submitting)
 
 - **Zhongming Huang,** Shangyun Yang, 6-DoF Occluded Object Semantic Grasp Planning with De-occlusion Instance Segmentation, In Proc. of the *5th International Conference on Intelligent Autonomous Systems (ICoIAS’ 2022)* (Accepted) [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper1.pdf)
 
