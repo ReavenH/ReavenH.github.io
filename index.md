@@ -4,7 +4,7 @@ layout: default
 
 **NOTICE**: 
 1. this webpage is continuously under construction, sorry for the inconvenience!     
-2. I am currently studying Telecommunication Engineering in Tiangong University, Tianjin, China. And I am now `seeking PhD positions related to EE/CS`, since I'm particularly interested in the intersection between Computer Vision and Robotics.
+2. I am currently studying Telecommunication Engineering in Tiangong University, Tianjin, China. And I am now `seeking PhD positions related to CS/Robotics/EE`, since I'm particularly interested in the intersection between Computer Vision and Robotics.
 3. If you are interested, please feel free to contact me: <reavenhuang@gmail.com>.
 4. My CV can be found [here](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_CV_ver9.pdf).   
 5. Details about my projects can be found on the next sections (with links).
@@ -71,11 +71,16 @@ I actually experienced the so-called "Waterloo" debacle in Gaokao, but I still k
 
 - **Zhongming Huang**, Semantic Road Segmentation Based on Adapted Poly-YOLO (Submitting)
 
-- **Zhongming Huang,** Shangyun Yang, 6-DoF Occluded Object Semantic Grasp Planning with De-occlusion Instance Segmentation, In Proc. of the *5th International Conference on Intelligent Autonomous Systems (ICoIAS’ 2022)* (Accepted) [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper1.pdf)
+- **Zhongming Huang,** Shangyun Yang, 6-DoF Occluded Object Semantic Grasp Planning with De-occlusion Instance Segmentation, In Proc. of the *5th International Conference on Intelligent Autonomous Systems (ICoIAS’ 2022)* (In Press)    
+  `Best Presentation Award of ICoIAS 2022`       
+  [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper1.pdf), [Click to See Photos on ICoIAS 2022](./RH_ICoIAS2022.html)
 
-- **Zhongming Huang**\*, Yuxiang Wang\*, High Precision Small Hepatocellular Carcinoma Detection Using Improved EfficientNet with Self-Attention, Paper Presented at *22nd IEEE/ACIS International Conference on Computer and Information Science* *(ICIS 2022)* (EI Indexing) [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper2.pdf), [Click to See the Published Conference Proceedings](https://ieeexplore.ieee.org/xpl/conhome/9882302/proceeding)
+- **Zhongming Huang**\*, Yuxiang Wang\*, High Precision Small Hepatocellular Carcinoma Detection Using Improved EfficientNet with Self-Attention, Paper Presented at *22nd IEEE/ACIS International Conference on Computer and Information Science* *(ICIS 2022)* (EI Indexing)     
+  [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper2.pdf), [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/9882302/proceeding)
 
-- **Zhongming Huang**\*, Yuxiang Wang\*, Haolan Hu, Xun Liu, Tongzhen Liu and Zhanxu Zhang, Dynamic Feature Extraction Using I-Vector for Video Fire Detection, Paper Presented at *2022 3rd IEEE International Conference on Pattern Recognition and Machine Learning (PRML 2022)* (EI Indexing) [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper3.pdf), [Click to See the Published Conference Proceedings](https://ieeexplore.ieee.org/xpl/conhome/9882087/proceeding) `Best Presentation Award of PRML 2022` [Click to See Shots on PRML 2022](./RH_PRML2022.html)
+- **Zhongming Huang**\*, Yuxiang Wang\*, Haolan Hu, Xun Liu, Tongzhen Liu and Zhanxu Zhang, Dynamic Feature Extraction Using I-Vector for Video Fire Detection, Paper Presented at *2022 3rd IEEE International Conference on Pattern Recognition and Machine Learning (PRML 2022)* (EI Indexing)    
+  `Best Presentation Award of PRML 2022`    
+  [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper3.pdf), [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/9882087/proceeding), [Click to See Photos on PRML 2022](./RH_PRML2022.html)   
 
 - Yukuan Sun, **Zhongming Huang**, Yuxiang Wang, Xun Liu, Zhanxu Zhang, Tongzhen Liu, Haolan Hu, A Multi-dimensional Sensing Quadrotor UAV Fire Inspection System (P.R.C. Patent for Utility Models, Application Number: CN202221074321.2)
 
@@ -118,7 +123,7 @@ Sep.2021 — Present, CA, United States (Remote)
 
 - Planned to generate polygon localizations which wraps the object more precisely than traditional rectangular bounding boxes, shifting the coordination regression task on the rectangle corners to the vertices of a polygon bounding box. 
 
-- Designed to use YOLOv3 as the backbone, with the technique route being referred to the previous work Poly-YOLO, and the work was expected to be presented in a paper under preparation.
+- Designed to use YOLOv5 to replace the original YOLOv3 backbone, with the technique route being referred to the previous work Poly-YOLO, and the work was expected to be presented in a paper under preparation.
 
 -----
 
@@ -213,9 +218,13 @@ Dec. 2020 — Apr. 2021
 -----
 
 # Honors and Prizes
+
+·  **Best Presentation Award** `Oral Presenter`, Sep. 2022
+> The 5<sup>th</sup> International Conference on Intelligent Autonomous Systems (ICoIAS 2022)
+
 ·  **Best Presentation Award** `Oral Presenter`, Jul. 2022
 
-> The 3<sup>rd</sup> International Conference on Pattern Recognition and Machine Learning (PRML 2022)
+> The 3<sup>rd</sup> IEEE International Conference on Pattern Recognition and Machine Learning (PRML 2022)
 
 ·  **Provincial Second Prize** `Team Leader`, Jun. 2021
 
