@@ -6,7 +6,7 @@ layout: default
 1. this webpage is continuously under construction, sorry for the inconvenience!     
 2. I am currently studying Telecommunication Engineering in Tiangong University, Tianjin, China. And I am now `seeking PhD positions related to CS/Robotics/EE`, since I'm particularly interested in the intersection between Computer Vision and Robotics.
 3. If you are interested, please feel free to contact me: <reavenhuang@gmail.com>.
-4. My CV can be found [here](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_CV_ver9.pdf).   
+4. My CV can be found [here](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_CV_ver11.pdf).   
 5. Details about my projects can be found on the next sections (with links).
 
 -----
@@ -18,8 +18,8 @@ layout: default
 - [Technical Skills](#technical-skills)
 - [Publications and Patents](#publications-and-patents)
 - [Active Researches](#active-researches)
+  - [**YOLOv5-PolarMask: A One-stage Detector Unleashed for Instance Segmentation**](#yolov5-polarmask-a-one-stage-detector-unleashed-for-instance-segmentation)
   - [**Semantic Road Segmentation Based on Adapted Poly-YOLO**](#semantic-road-segmentation-based-on-adapted-poly-yolo)
-  - [**High Precision Object Detection Based on Polygon Bounding Boxes**](#high-precision-object-detection-based-on-polygon-bounding-boxes)
 - [Research and Competition Experiences](#research-and-competition-experiences)
   - [**5th International Conference on Intelligent Autonomous Systems (ICoIAS’ 2022, Date: Sep. 23-25, 2022)**         **Dalian, China**](#5th-international-conference-on-intelligent-autonomous-systems-icoias-2022-date-sep-23-25-2022---------dalian-china)
   - [**22nd** **IEEE/ACIS International Conference on Computer and Information Science (ICIS 2022, Date: Jun. 26-28, 2022)  Zhuhai, China**](#22nd-ieeeacis-international-conference-on-computer-and-information-science-icis-2022-date-jun-26-28-2022--zhuhai-china)
@@ -69,30 +69,44 @@ I actually experienced the so-called "Waterloo" debacle in Gaokao, but I still k
 
 # Publications and Patents
 
-- **Zhongming Huang**, Semantic Road Segmentation Based on Adapted Poly-YOLO (Submitting)
+- **Zhongming Huang**, YOLOv5-PolarMask: A One-stage Detector Unleashed for Instance Segmentation (Preparing)
 
-- **Zhongming Huang,** Shangyun Yang, 6-DoF Occluded Object Semantic Grasp Planning with De-occlusion Instance Segmentation, In Proc. of the *5th International Conference on Intelligent Autonomous Systems (ICoIAS’ 2022)* (In Press)    
+- **Zhongming Huang**, Semantic Road Segmentation Based on Adapted Poly-YOLO, In *Proc. 3<sup>rd</sup> International Conference on Signal Processing and Machine Learning* (Accepted)
+
+- **Zhongming Huang,** Shangyun Yang, 6-DoF Occluded Object Semantic Grasp Planning with De-occlusion Instance Segmentation, In Proc. of the *5<sup>th</sup> International Conference on Intelligent Autonomous Systems (ICoIAS’ 2022)* (In Press)    
   `Best Presentation Award of ICoIAS 2022`       
   [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper1.pdf), [Click to See Photos on ICoIAS 2022](./RH_ICoIAS2022.html)
 
-- **Zhongming Huang**\*, Yuxiang Wang\*, High Precision Small Hepatocellular Carcinoma Detection Using Improved EfficientNet with Self-Attention, Paper Presented at *22nd IEEE/ACIS International Conference on Computer and Information Science* *(ICIS 2022)* (EI Indexing)     
+- **Zhongming Huang**\*, Yuxiang Wang\*, High Precision Small Hepatocellular Carcinoma Detection Using Improved EfficientNet with Self-Attention, Paper Presented at *22<sup>nd</sup> IEEE/ACIS International Conference on Computer and Information Science* *(ICIS 2022)* (EI Indexing)     
   [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper2.pdf), [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/9882302/proceeding)
 
-- **Zhongming Huang**\*, Yuxiang Wang\*, Haolan Hu, Xun Liu, Tongzhen Liu and Zhanxu Zhang, Dynamic Feature Extraction Using I-Vector for Video Fire Detection, Paper Presented at *2022 3rd IEEE International Conference on Pattern Recognition and Machine Learning (PRML 2022)* (EI Indexing)    
+- **Zhongming Huang**\*, Yuxiang Wang\*, Haolan Hu, Xun Liu, Tongzhen Liu and Zhanxu Zhang, Dynamic Feature Extraction Using I-Vector for Video Fire Detection, Paper Presented at *2022 3<sup>rd</sup> IEEE International Conference on Pattern Recognition and Machine Learning (PRML 2022)* (EI Indexing)    
   `Best Presentation Award of PRML 2022`    
   [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper3.pdf), [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/9882087/proceeding), [Click to See Photos on PRML 2022](./RH_PRML2022.html)   
 
+- **Zhongming Huang**, Yuxiang Wang, Haolan Hu, A Dynamic Fire Detection Model Using I-Vector (P.R.C. Patent for Invention, Application Number: CN202211245746.X)
+
 - Yukuan Sun, **Zhongming Huang**, Yuxiang Wang, Xun Liu, Zhanxu Zhang, Tongzhen Liu, Haolan Hu, A Multi-dimensional Sensing Quadrotor UAV Fire Inspection System (P.R.C. Patent for Utility Models, Application Number: CN202221074321.2)
 
-- **Zhongming Huang**, Yuxiang Wang, Xun Liu, Zhanxu Zhang, Tongzhen Liu, Haolan Hu, Fire Detection System Based on Deep Learning Quadrotor UAV (P.R.C. Software Copyright, Register Number: 2022SR0916949)
-
-- **Zhongming Huang**, Yuxiang Wang, Haolan Hu, A Dynamic Fire Detection Model Using I-Vector (P.R.C. Patent for Invention, Submitted)
+- **Zhongming Huang**, Yuxiang Wang, Xun Liu, Zhanxu Zhang, Tongzhen Liu, Haolan Hu, Fire Detection System Based on Deep Learning Quadrotor UAV (P.R.C. Software Copyright No.2022SR0916949)
 
 > \* : the authors contributed equally in the paper work.
 
 ------
 
 # Active Researches
+
+## **YOLOv5-PolarMask: A One-stage Detector Unleashed for Instance Segmentation**             
+
+Sep.2021 — Present, CA, United States (Remote)
+
+**Research Intern** 
+
+**Supervisor: Ian Deng, PhD,** *University of California, San Diego*
+
+- The previous work [*PolarMask (E. Xie et al., CVPR2020)*](http://openaccess.thecvf.com/content_CVPR_2020/html/Xie_PolarMask_Single_Shot_Instance_Segmentation_With_Polar_Representation_CVPR_2020_paper.html) aims to generate polygon localizations which wraps the instances as accurate as pixel-wise segmentations. The early collaboration of PolarMask with YOLO, one of the fastest one-stage detectors, was named Poly-YOLO. But the YOLOv3 backbone of Poly-YOLO brings limitations for segmenting objects of more kinds and sizes.
+
+- Designed to use YOLOv5 as the backbone network and integrate PolarMask modules into its feature maps and losses, and other tricks will be tested to achieve decent segmentation speed and accuracy on more complex instances. This work is being organized into a paper.
 
 ## **Semantic Road Segmentation Based on Adapted Poly-YOLO** 
 
@@ -102,28 +116,9 @@ Jun. 2022 — Present, MA, United States (Remote)
 
 **Supervisor: Mark Vogelsberger, Professor,** *Massachusetts Institute of Technology* 
 
-- Discussed deeper theories of several foundamental neural network structures, especially those used in autonomous driving. Also, different tricks used in enhancing the network’s performance have been tested by hand buiding different kind of networks from scratch. 
+- Aimed at the semantic road segmentation using object detection based methods, and make improvements upon the Poly-YOLO [*(P. Hurtik et al., arXiv 2020 / Springer 2022)*](https://link.springer.com/article/10.1007/s00521-021-05978-9) baseline since it is not tuned for certain specific scenarios: 1) the anchors are not tuned for detecting large road targets; 2) the preprocessing mechanism for datasets to transform the masks into vertices is not accurate; 3) the pre-training dataset is limited.
 
-
-- Aimed at the semantic road segmentation using object detection based methods, and make improvements upon the baseline models since the baseline model is not tuned for this specific scenario: 1) the anchors are not tuned for detecting large road targets; 2) the preprocessing mechanism for datasets to transform the masks into vertices is not accurate; 3) the pre-training dataset is limited.
-
-- Improved the baseline model by allocating the anchors after splitting objects into three categories by the size, and also by training on larger datasets. The mAP at 0.5~0.95 IoU rised from 0.4 to over 0.8, the performance on detecting and segmenting small size objects is also enhanced, making the adapted model more reliable in real world road segmentation scenario. The result of this work is being presented in a paper.
-
-
-
-## **High Precision Object Detection Based on Polygon Bounding Boxes**             
-
-Sep.2021 — Present, CA, United States (Remote)
-
-**Research Intern** 
-
-**Supervisor: Ian Deng, PhD,** *University of California, San Diego*
-
-- Aimied to design an adapted object detection algorithm which generates object locations with a more precise boundry, providing more accurate localization which is less affected by the background.
-
-- Planned to generate polygon localizations which wraps the object more precisely than traditional rectangular bounding boxes, shifting the coordination regression task on the rectangle corners to the vertices of a polygon bounding box. 
-
-- Designed to use YOLOv5 to replace the original YOLOv3 backbone, with the technique route being referred to the previous work Poly-YOLO, and the work was expected to be presented in a paper under preparation.
+- Improved the baseline model by allocating the anchors after splitting objects into three categories by the size, and also by training on larger datasets. The mAP at 0.5~0.95 IoU rised from 0.4 to over 0.8, the performance on detecting and segmenting small size objects is also enhanced, making the adapted model more reliable in real world road segmentation scenarios. This work is presented in a paper.
 
 -----
 
