@@ -77,12 +77,12 @@ I actually experienced the so-called "Waterloo" debacle in Gaokao, but I still k
   `Best Presentation Award of ICoIAS 2022`       
   [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper1.pdf), [Click to See Photos on ICoIAS 2022](./RH_ICoIAS2022.html)
 
-- **Zhongming Huang**\*, Yuxiang Wang\*, High Precision Small Hepatocellular Carcinoma Detection Using Improved EfficientNet with Self-Attention, Paper Presented at *22<sup>nd</sup> IEEE/ACIS International Conference on Computer and Information Science* *(ICIS 2022)* (EI Indexing)     
-  [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper2.pdf), [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/9882302/proceeding)
+- **Zhongming Huang**\*, Yuxiang Wang\*, High Precision Small Hepatocellular Carcinoma Detection Using Improved EfficientNet with Self-Attention, Paper Presented at *22<sup>nd</sup> IEEE/ACIS International Conference on Computer and Information Science* *(ICIS 2022)*     
+  [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper2.pdf), [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/9882302/proceeding), **EI Compendex** Accession Number: 20224012844470
 
-- **Zhongming Huang**\*, Yuxiang Wang\*, Haolan Hu, Xun Liu, Tongzhen Liu and Zhanxu Zhang, Dynamic Feature Extraction Using I-Vector for Video Fire Detection, Paper Presented at *2022 3<sup>rd</sup> IEEE International Conference on Pattern Recognition and Machine Learning (PRML 2022)* (EI Indexing)    
+- **Zhongming Huang**\*, Yuxiang Wang\*, Haolan Hu, Xun Liu, Tongzhen Liu and Zhanxu Zhang, Dynamic Feature Extraction Using I-Vector for Video Fire Detection, Paper Presented at *2022 3<sup>rd</sup> IEEE International Conference on Pattern Recognition and Machine Learning (PRML 2022)*  
   `Best Presentation Award of PRML 2022`    
-  [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper3.pdf), [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/9882087/proceeding), [Click to See Photos on PRML 2022](./RH_PRML2022.html)   
+  [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper3.pdf), [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/9882087/proceeding), **EI Compendex** Accession Number: 20224012844720, [Click to See Photos on PRML 2022](./RH_PRML2022.html)   
 
 - **Zhongming Huang**, Yuxiang Wang, Haolan Hu, A Dynamic Fire Detection Model Using I-Vector (P.R.C. Patent for Invention, Application Number: CN202211245746.X)
 
