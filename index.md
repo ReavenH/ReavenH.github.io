@@ -75,7 +75,7 @@ I actually experienced the so-called "Waterloo" debacle in Gaokao, but I still k
 
 - **Zhongming Huang,** Shangyun Yang, 6-DoF Occluded Object Semantic Grasp Planning with De-occlusion Instance Segmentation, In Proc. of the *5<sup>th</sup> International Conference on Intelligent Autonomous Systems (ICoIAS’ 2022)* (In Press)    
   `Best Presentation Award of ICoIAS 2022`       
-  [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper1.pdf), [Click to See Photos on ICoIAS 2022](./RH_ICoIAS2022.html)
+  [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper1.pdf), [IEEE Xplore](https://ieeexplore.ieee.org/document/9931318), EI Indexing, [Click to See Photos on ICoIAS 2022](./RH_ICoIAS2022.html)
 
 - **Zhongming Huang**\*, Yuxiang Wang\*, High Precision Small Hepatocellular Carcinoma Detection Using Improved EfficientNet with Self-Attention, Paper Presented at *22<sup>nd</sup> IEEE/ACIS International Conference on Computer and Information Science* *(ICIS 2022)*     
   [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper2.pdf), [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/9882302/proceeding), **EI Compendex** Accession Number: 20224012844470
