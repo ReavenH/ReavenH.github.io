@@ -6,7 +6,7 @@ layout: default
 1. this webpage is continuously under construction, sorry for the inconvenience!     
 2. I am currently studying Telecommunication Engineering in Tiangong University, Tianjin, China. And I am now `seeking PhD positions related to CS/Robotics/EE`, since I'm particularly interested in the intersection between Computer Vision and Robotics.
 3. If you are interested, please feel free to contact me: <reavenhuang@gmail.com>.
-4. My CV can be found [here](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_CV_ver11.pdf).   
+4. My CV can be found [here](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_CV_ver12.pdf).   
 5. Details about my projects can be found on the next sections (with links).
 
 -----
@@ -27,7 +27,7 @@ layout: default
   - [**The 16th "Challenge Cup" Competition**](#the-16th-challenge-cup-competition)
   - [**The 7th National College Students' Engineering Training Comprehensive Ability Competition**](#the-7th-national-college-students-engineering-training-comprehensive-ability-competition)
 - [Honors and Prizes](#honors-and-prizes)
-- [Hobbies and Other Experiences](#hobbies-and-other-experiences)
+- [Hobbies and Other Services](#hobbies-and-other-services)
 
 -----
 
@@ -39,7 +39,7 @@ layout: default
 
 Undergraduate of `Telecommunication Engineering`, Class of 2023, Sep. 2019 — Present       
 
-`GPA:3.80/4.0` ,  `Rank 3/120 in major`
+`GPA:3.80/4.0` ,  `Rank 3/120 in major`,  `Major GPA: 3.82/4.0`
 
 `Specialized Courses` Machine Learning and Bigdata Processing (90) / Digital Signal Processing (89) / Computer Networks (95) / Mathematical Modeling / Signals and Systems / Microcontroller / EDA Theory & VHDL Programming (96) / Communication Theory / High-Frequency Electronics / Electromagnetics / A&D Electronics (91) / C Programming (92) / Linear Algebra (90), etc.    
 
@@ -47,13 +47,20 @@ Undergraduate of `Telecommunication Engineering`, Class of 2023, Sep. 2019 — P
 
 **[Changjun High School](http://www.changjun.com.cn/), Changsha, China**
 
-Duration: 2016-2019.
+`Duration: 2016-2019.`
 
-Some may argue that why I show my high school experience in such a formal blog. Actually, my high school is among the top 4 high schools in China. I have benefited a lot from the education Changjun had given me. I never forget the school's motto, which is "to love life, to master thinking, to benefit the world, and to make accomplishments"(in Chinese: 爱生活，善求知，忧天下，有作为). This motto has always been the beacon in my journey to persue knowledge and overcome barriers. 
+Selected Honors and Prizes: 
 
-I actually experienced the so-called "Waterloo" debacle in Gaokao, but I still kept fighting. Though I was highlighted by many prizes during my high school life, I did not get a concret answer about what to endeavor in the lifelong journey. During my university life, I appreciate much about my classmates and teachers. Because I have met a lot of friends who are very nice, and more importantly, I have found what I really love, which is building intelligent mobile robots that can freely travel on the world (e.g. autonomous driving cars, and autonomous robots as the Boston Dynamics has introduced). I understand what I love will take a lot to finally achieve, so I will continue to push my boundaries till the day comes.
+1. "Centenary and Millon" Scholarship (2019).
+   > Highest Honor of Changjun High School.
+2. Meritorious Changjun Student of 2018.
+   > Only 8 students among 1400 get elected each year.
+3. National Second Prize of the Peking University "Peiwen Cup" Innovational Writing Competition (2018).
+   > Top 100 among national competitors.
 
-(Sounds a little bit sentimental, but I am actually a firm person in reality, lol. I will back to academic style in the next sections~ **I am trying to conclude it in my Statement of Purpose that why I have become determined to learn CV/Robotics and my research experience**)
+Some may argue that why I show my high school experience in such a formal blog. Actually, my high school was ranked among the top 4 high schools in China. I have benefited a lot from the education Changjun had given me. I never forget the school's motto, which is "to love life, to master thinking, to benefit the world, and to make accomplishments"(in Chinese: 爱生活，善求知，忧天下，有作为). This motto has always been the beacon in my journey to persue knowledge and overcome barriers. 
+
+I actually experienced the so-called "Waterloo" debacle in Gaokao, but I still kept fighting to keep up with my alumni and pursue my academic ideal. Though I was highlighted by many prizes during my high school life, I did not get a concret answer about what to endeavor in the lifelong journey. During my university life, I appreciate much about my classmates and teachers. Because I have met a lot of friends who are very nice, and more importantly, I have found what I really love, which is building intelligent mobile robots that can freely travel on the world (e.g. autonomous driving cars, and autonomous robots as the Boston Dynamics has introduced). I understand what I love will take a lot to finally achieve, so I will continue to push my boundaries till the day comes.
 
 -----
 
@@ -71,11 +78,11 @@ I actually experienced the so-called "Waterloo" debacle in Gaokao, but I still k
 
 - **Zhongming Huang**, YOLOv5-PolarMask: A One-stage Detector Unleashed for Instance Segmentation (Preparing)
 
-- **Zhongming Huang**, Semantic Road Segmentation Based on Adapted Poly-YOLO, In *Proc. 3<sup>rd</sup> International Conference on Signal Processing and Machine Learning* (Accepted)
+- **Zhongming Huang**, Semantic Road Segmentation Based on Adapted Poly-YOLO, In *Proc. 3<sup>rd</sup> International Conference on Signal Processing and Machine Learning* (Accepted for Publication)
 
 - **Zhongming Huang,** Shangyun Yang, 6-DoF Occluded Object Semantic Grasp Planning with De-occlusion Instance Segmentation, In Proc. of the *5<sup>th</sup> International Conference on Intelligent Autonomous Systems (ICoIAS’ 2022)* (In Press)    
   `Best Presentation Award of ICoIAS 2022`       
-  [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper1.pdf), [IEEE Xplore](https://ieeexplore.ieee.org/document/9931318), EI Indexing, [Click to See Photos on ICoIAS 2022](./RH_ICoIAS2022.html)
+  [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper1.pdf), [IEEE Xplore](https://ieeexplore.ieee.org/document/9931318), **EI Compendex** Accession Number: 20224813165040, [Click to See Photos on ICoIAS 2022](./RH_ICoIAS2022.html)
 
 - **Zhongming Huang**\*, Yuxiang Wang\*, High Precision Small Hepatocellular Carcinoma Detection Using Improved EfficientNet with Self-Attention, Paper Presented at *22<sup>nd</sup> IEEE/ACIS International Conference on Computer and Information Science* *(ICIS 2022)*     
   [Paper in PDF](https://github.com/ReavenH/ReavenH/blob/main/ZhongmingHuang_paper2.pdf), [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/9882302/proceeding), **EI Compendex** Accession Number: 20224012844470
@@ -86,9 +93,9 @@ I actually experienced the so-called "Waterloo" debacle in Gaokao, but I still k
 
 - **Zhongming Huang**, Yuxiang Wang, Haolan Hu, A Dynamic Fire Detection Model Using I-Vector (P.R.C. Patent for Invention, Application Number: CN202211245746.X)
 
-- Yukuan Sun, **Zhongming Huang**, Yuxiang Wang, Xun Liu, Zhanxu Zhang, Tongzhen Liu, Haolan Hu, A Multi-dimensional Sensing Quadrotor UAV Fire Inspection System (P.R.C. Patent for Utility Models, Application Number: CN202221074321.2)
-
 - **Zhongming Huang**, Yuxiang Wang, Xun Liu, Zhanxu Zhang, Tongzhen Liu, Haolan Hu, Fire Detection System Based on Deep Learning Quadrotor UAV (P.R.C. Software Copyright No.2022SR0916949)
+
+- Yukuan Sun, **Zhongming Huang**, Yuxiang Wang, Xun Liu, Zhanxu Zhang, Tongzhen Liu, Haolan Hu, A Multi-dimensional Sensing Quadrotor UAV Fire Inspection System (P.R.C. Patent for Utility Models, Application Number: CN202221074321.2)
 
 > \* : the authors contributed equally in the paper work.
 
@@ -104,7 +111,7 @@ Sep.2021 — Present, CA, United States (Remote)
 
 **Supervisor: Ian Deng, PhD,** *University of California, San Diego*
 
-- The previous work [*PolarMask (E. Xie et al., CVPR2020)*](http://openaccess.thecvf.com/content_CVPR_2020/html/Xie_PolarMask_Single_Shot_Instance_Segmentation_With_Polar_Representation_CVPR_2020_paper.html) aims to generate polygon localizations which wraps the instances as accurate as pixel-wise segmentations. The early collaboration of PolarMask with YOLO, one of the fastest one-stage detectors, was named Poly-YOLO. But the YOLOv3 backbone of Poly-YOLO brings limitations for segmenting objects of more kinds and sizes.
+- The previous work PolarMask [*(E. Xie et al., CVPR2020)*](http://openaccess.thecvf.com/content_CVPR_2020/html/Xie_PolarMask_Single_Shot_Instance_Segmentation_With_Polar_Representation_CVPR_2020_paper.html) aims to generate polygon localizations which wraps the instances as accurate as pixel-wise segmentations. The early collaboration of PolarMask with YOLO, one of the fastest one-stage detectors, was named Poly-YOLO. But the YOLOv3 backbone of Poly-YOLO brings limitations for segmenting objects of more kinds and sizes.
 
 - Designed to use YOLOv5 as the backbone network and integrate PolarMask modules into its feature maps and losses, and other tricks will be tested to achieve decent segmentation speed and accuracy on more complex instances. This work is being organized into a paper.
 
@@ -247,14 +254,19 @@ Dec. 2020 — Apr. 2021
 
 -----
 
-# Hobbies and Other Experiences
+# Hobbies and Other Services  
 
+- Leadership   
+  - In 2020, I participated in organizing a Music Liveshow called [YoungTime 2020](./youngtime2.html) as the vice-director, this liveshow is co-orgnized by my high school mates, who all love music and spread the spirit of music. The funding was raised by our own and we had been gone through many troublesome procedures when contacting sponsors, singers, and cooperating with the venue leasing agents. But the liveshow turned out to be rather impressive. 
+  - From Sep. 2019 to Sep. 2020, I was a member at the Student Union of the School of International Education at Tiangong University.
+- Teaching and Lab Assisting
+  - From Sep. 2020 to Sep. 2021, I was a research fellow at the Robot Lab of Tiangong University. I always helped teaching new lab members to use lab facilities and build commonly used robot frameworks.
+  - I was frequently asked to help graduate students with their lab experiments, such as UAV testflights and point cloud data collection.
 - Travel and Photographing(just for fun)
   - I like to explore places and leave remarkable footprints. [Click](./photographing.html) to see details.
 - Sports (badminton, hiking, fitness)
   - Doing loved sports makes me feel refreshed! I keep fitness at home or dorm on a daily basis.
 - Singing(above the average, I guess)
-  - In 2020, I participated in organizing a Music Liveshow called [YoungTime 2020](./youngtime2.html) as the vice-director, this liveshow is co-orgnized by my high school mates, who all love music and spread the spirit of music. The funding was raised by our own and we had been gone through many troublesome procedures when contacting sponsors, singers, and cooperating with the venue leasing agents. But the liveshow turned out to be rather impressive. 
   - During 2019~2020, I was a member of Tiangong University Chamber Chorus where I sang in the tenore division.
 - Enjoying smart devices(especially those with high intelligence)
   - I have become an IEEE Member in 2022!
